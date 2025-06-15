@@ -1,6 +1,6 @@
 {
-  "name": "z-wf-starter",
-  "description": "Starter template that I use for all my Webflow projects.",
+  "name": "wf-intl-tel-input",
+  "description": "An international telephone input component specifically designed for Webflow projects.",
   "license": "ISC",
   "keywords": [],
   "type": "module",
