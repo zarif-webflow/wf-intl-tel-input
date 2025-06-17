@@ -14,6 +14,9 @@ importers:
       '@taj-wf/utils':
         specifier: ^1.1.4
         version: 1.1.4
+      intl-tel-input:
+        specifier: ^25.3.1
+        version: 25.3.1
     devDependencies:
       '@eslint/js':
         specifier: ^9.19.0
@@ -995,6 +998,9 @@ packages:
     peerDependenciesMeta:
       '@types/node':
         optional: true
+
+  intl-tel-input@25.3.1:
+    resolution: {integrity: sha512-0Xls8/hnvPv6EqfDJ+cz6h/MGvEYiHkerrQBHMmRuuBPZ0MedDyzRqqdSkhFXXGt9YTihmBhXwtWoeHjdouIKA==}
 
   ip-address@9.0.5:
     resolution: {integrity: sha512-zHtQzGojZXTwZTHQqra+ETKd4Sn3vgi7uBmlPoXVWZqYvuKmtI0l/VZTjqGmJY9x88GGOaZ9+G9ES8hC4T4X8g==}
@@ -2403,6 +2409,8 @@ snapshots:
       mute-stream: 2.0.0
       run-async: 3.0.0
       rxjs: 7.8.2
+
+  intl-tel-input@25.3.1: {}
 
   ip-address@9.0.5:
     dependencies:
